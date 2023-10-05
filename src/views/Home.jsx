@@ -21,7 +21,8 @@ const Home = () => {
           <h3>Please import csv file follows this format</h3>
           <img
             style={{ maxWidth: "100%" }}
-            src="src/assets/images/formatCSV.png"
+            // src="assets/images/formatCSV.png"
+            src="/src/assets/images/formatCSV.png"
             alt="formatCSV"
           />
         </div>
