@@ -22,7 +22,7 @@ const Home = () => {
           <img
             style={{ maxWidth: "100%" }}
             // src="assets/images/formatCSV.png"
-            src="/src/assets/images/formatCSV.png"
+            src="assets/images/formatCSV.png"
             alt="formatCSV"
           />
         </div>
